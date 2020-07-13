@@ -49,6 +49,7 @@
 
 #### 참고자료
 [[비즈 탐구] 점차 확대되는 렌탈산업의 현황과 미래는? - 렌탈산업 1부](https://www.hyosungfms.com/fms/promote/fms_news_view.do?id_boards=13313)
+
 [[관악사회경제] 2019년 사회적경제 우수사례 성공요인분석 자료집](http://gase.kr/web/se_news/9864)
 
 
