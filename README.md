@@ -11,7 +11,7 @@
 
 ![포스터](https://ifh.cc/g/cdBwoO.jpg)
 
-![image-20200713205128179](/Users/user1/Library/Application Support/typora-user-images/image-20200713205128179.png)
+![SDGs](https://www.ecohz.com/wp-content/uploads/2016/04/SDGs_poster_new1-e1470856750431.png)
 
 ## IDEA1
 
@@ -46,6 +46,10 @@
 
 
 #### 기대효과
+
+#### 참고자료
+[[비즈 탐구] 점차 확대되는 렌탈산업의 현황과 미래는? - 렌탈산업 1부](https://www.hyosungfms.com/fms/promote/fms_news_view.do?id_boards=13313)
+[[관악사회경제] 2019년 사회적경제 우수사례 성공요인분석 자료집](http://gase.kr/web/se_news/9864)
 
 
 
@@ -143,5 +147,8 @@
 #### 기대효과
 
 
-
+### 공모전 회의 1차
+- 20200713 Mon
+- 참가자: 김영진, 진휘진, 유하나
+- IDEA1: 비대면 시대를 맞이한 사회적 구독경제 기업 작성
 
